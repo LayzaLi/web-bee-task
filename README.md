@@ -1,4 +1,4 @@
-# web-bee-task
+# Web-bee-task
 
 <h3>В папке HTML находится проект, сделанный на HTML</h3>
 
